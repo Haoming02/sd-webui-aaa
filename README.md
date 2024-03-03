@@ -9,6 +9,8 @@ This can easily be sovlved by doing an Inpaint pass.
 However, manually drawing a mask around the edge can be a chore.
 Therefore, use this Extension to automatically generate one for you!
 
+> See also [layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) for cleaner images with no background
+
 ## Settings
 <ins>**Images**</ins>
 - **Background:** Background to place the subject on
@@ -68,7 +70,3 @@ Notice the grey outline around the subject
 <img src="samples/apple.jpg"><br>
 Place objects <b>anywhere</b>!
 </p>
-
-<hr>
-
-<sup>*Yeah, the Extension name is stupid. Suggestion is open :P*</sup>
